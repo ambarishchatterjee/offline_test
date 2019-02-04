@@ -10,7 +10,7 @@ An example of this is:  https://picsum.photos/400/600?image=0 . This url request
 Requirements:
 1)      All images should be size 200 x 300. 
 2)      Above every image in the slider there should be the author’s name.
-3)    On page refresh it should load different random images
+3)      On page refresh it should load different random images
  
 
 Evaluation Criteria
