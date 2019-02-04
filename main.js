@@ -29,7 +29,7 @@ const fetchData = (url='https://picsum.photos/list') => {
         //Create Slider template
         const createSlider = (imgHeight=200,imgWidth=300) => {
             const slider = `
-            <h1>Slider Assignment</h1>
+            <h1>Photo Slider</h1>
             <div class="slideshow-container">
                 ${randomPhotosArr.map(randomPhotosArr => 
                     `<div class="mySlides fade">
